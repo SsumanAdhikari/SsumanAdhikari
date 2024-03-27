@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SsumanAdhikari
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python
 - 📫 How to reach me
     Facebook-https://www.facebook.com/profile.php?id=100006220635334
     Instagram-https://www.instagram.com/_.ssumann._/
